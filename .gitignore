@@ -1,7 +1,3 @@
 bin/
-.settings/
-src/main/resources
-.classpath
-.project
-target/
+
 
